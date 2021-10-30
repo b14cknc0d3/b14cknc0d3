@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=b14cknc0d3" alt="b14cknc0d3" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://yairlinaung.herokuapp.com](https://yairlinaung.herokuapp.com)
+- 👨‍💻 All of my projects are available at [https://yairlinnaung.herokuapp.com/#/](https://yairlinnaung.herokuapp.com)
 
-- 📝 I regularly write articles on [https://yairlinaung.herokuapp.com/#/blog](https://yairlinaung.herokuapp.com/#/blog)
+- 📝 I regularly write articles on https://yairlinnaung.herokuapp.com/#/blog](https://yairlinnaung.herokuapp.com/#/blog)
 
 - 💬 Ask me about **flutter,python,django,linux**
 
