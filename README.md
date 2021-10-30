@@ -8,13 +8,13 @@
 
 - 👨‍💻 All of my projects are available at [https://yairlinnaung.herokuapp.com/#/](https://yairlinnaung.herokuapp.com)
 
-- 📝 I regularly write articles on https://yairlinnaung.herokuapp.com/#/blog](https://yairlinnaung.herokuapp.com/#/blog)
+- 📝 I regularly write articles on [https://yairlinnaung.herokuapp.com/#/blog](https://yairlinnaung.herokuapp.com/#/blog).
 
 - 💬 Ask me about **flutter,python,django,linux**
 
 - 📫 How to reach me **lambdasec2021@gmail.com**
 
-- 📄 Know about my experiences [https://yairlinaung.herokuapp.com/#/resume](https://yairlinaung.herokuapp.com/#/resume)
+- 📄 Know about my experiences [https://yairlinnaung.herokuapp.com/#/resume](https://yairlinnaung.herokuapp.com/#/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
